@@ -1,0 +1,14 @@
+#ifndef WIFI_CREDS_H
+#define WIFI_CREDS_H
+
+#undef WIFI_SSID
+#ifndef WIFI_SSID
+#define WIFI_SSID ""
+#endif
+
+#undef WIFI_PASSWORD
+#ifndef WIFI_PASSWORD
+#define WIFI_PASSWORD ""
+#endif
+
+#endif // WIFI_CREDS_H

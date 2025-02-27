@@ -1,0 +1,8 @@
+build
+wifi_creds.h
+cert_string.h
+key_string.h
+server_cert.pem
+server_key.pem
+test_cert
+test_key
