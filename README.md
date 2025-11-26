@@ -2,15 +2,17 @@
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
-<br><br>
+<br>
 
 # IoT Pico W TLS Server
 IoT Pico W TLS Server that obtains the Pico W temperature and serves it to a TLS client where this project is designed for a MAC M series client and is based on the Raspberry Pi Foundation’s pico_examples TLS client example.
 
-<br><br>
+<br>
 
 ### STEP 1: rename `wifi_creds.template` to `wifi_creds.h` and fill in your SSID and password
+
 ### STEP 2: `./build.sh`
+
 ### STEP 3: `./tls_client <IP>`
 
 ### SOURCE `tls_server.c`
